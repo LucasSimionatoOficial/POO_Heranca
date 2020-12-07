@@ -1,0 +1,16 @@
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\Cpfsharp.exe
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\Cpfsharp.deps.json
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\Cpfsharp.runtimeconfig.json
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\Cpfsharp.runtimeconfig.dev.json
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\Cpfsharp.dll
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\ref\Cpfsharp.dll
+C:\Users\User\Documents\testes\Cpfsharp\bin\Debug\net5.0\Cpfsharp.pdb
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.csprojAssemblyReference.cache
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.AssemblyInfo.cs
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.dll
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\ref\Cpfsharp.dll
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.pdb
+C:\Users\User\Documents\testes\Cpfsharp\obj\Debug\net5.0\Cpfsharp.genruntimeconfig.cache
